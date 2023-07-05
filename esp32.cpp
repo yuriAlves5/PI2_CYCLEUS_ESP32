@@ -8,8 +8,8 @@ Adafruit_SSD1306 display(128, 64, &Wire);
 #define relay1 23
 #define relay2 25
 
-const char *ssid = "WiFi_SSID";
-const char *password = "WiFi_Password";
+const char *ssid = "iPhone Alisson";
+const char *password = "214bsb61afs";
 
 WiFiServer server(80);
 
